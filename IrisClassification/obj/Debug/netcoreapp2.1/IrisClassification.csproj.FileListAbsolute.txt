@@ -1,0 +1,11 @@
+/root/MlProj/mlProjects/IrisClassification/bin/Debug/netcoreapp2.1/IrisClassification.deps.json
+/root/MlProj/mlProjects/IrisClassification/bin/Debug/netcoreapp2.1/IrisClassification.runtimeconfig.json
+/root/MlProj/mlProjects/IrisClassification/bin/Debug/netcoreapp2.1/IrisClassification.runtimeconfig.dev.json
+/root/MlProj/mlProjects/IrisClassification/bin/Debug/netcoreapp2.1/IrisClassification.dll
+/root/MlProj/mlProjects/IrisClassification/bin/Debug/netcoreapp2.1/IrisClassification.pdb
+/root/MlProj/mlProjects/IrisClassification/obj/Debug/netcoreapp2.1/IrisClassification.csprojAssemblyReference.cache
+/root/MlProj/mlProjects/IrisClassification/obj/Debug/netcoreapp2.1/IrisClassification.csproj.CoreCompileInputs.cache
+/root/MlProj/mlProjects/IrisClassification/obj/Debug/netcoreapp2.1/IrisClassification.AssemblyInfoInputs.cache
+/root/MlProj/mlProjects/IrisClassification/obj/Debug/netcoreapp2.1/IrisClassification.AssemblyInfo.cs
+/root/MlProj/mlProjects/IrisClassification/obj/Debug/netcoreapp2.1/IrisClassification.dll
+/root/MlProj/mlProjects/IrisClassification/obj/Debug/netcoreapp2.1/IrisClassification.pdb
